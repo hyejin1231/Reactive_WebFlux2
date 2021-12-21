@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Reactive_WebFlux.iml" filepath="$PROJECT_DIR$/.idea/Reactive_WebFlux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myspringboot-webflux-2dbc/myspringboot-webflux-2dbc.iml" filepath="$PROJECT_DIR$/myspringboot-webflux-2dbc/myspringboot-webflux-2dbc.iml" />
+    </modules>
+  </component>
+</project>
